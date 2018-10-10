@@ -1,0 +1,27 @@
+{
+    "name": "sedona",
+    "displayName": "Sedona",
+    "description": "A Saturday night kind of pink. Easy on the eyes, no greens allowed!",
+    "version": "0.1.0",
+    "publisher": "interactiveRob",
+    "repository": {
+	    "type": "git",
+	    "url": "https://github.com/interactiveRob/sedona-vscode-theme.git"
+  	},
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sedona",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sedona-color-theme.json"
+            }
+        ]
+    }
+}
