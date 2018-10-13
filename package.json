@@ -2,7 +2,7 @@
     "name": "sedona",
     "displayName": "Sedona",
     "description": "A Saturday night kind of pink. Easy on the eyes, no greens allowed!",
-    "version": "0.1.3",
+    "version": "0.2.1",
     "publisher": "interactiveRob",
     "repository": {
 	    "type": "git",
@@ -15,10 +15,10 @@
     "categories": [
         "Themes"
     ],
+    "icon": "cover-photo.png",
     "contributes": {
         "themes": [
             {
-                "icon": "cover-photo.jpg",
                 "label": "Sedona",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Sedona-color-theme.json"
