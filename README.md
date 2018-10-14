@@ -1,4 +1,4 @@
-#Sedona 🌃
+# Sedona 🌃
 
 A Saturday night kind of pink. Easy on the eyes, no green allowed!
 
