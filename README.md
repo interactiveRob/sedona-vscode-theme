@@ -16,4 +16,4 @@ If you'd like to help make Sedona better, open an issue with any reccomendations
 4.  Search for **Sedona**
 5.  Click on **Install** 
 6.  Click **Reload** to reload VS Code 
-7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+7.  From the menu bar click: Code > Preferences > Color Theme > **Sedona**
